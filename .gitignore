@@ -1,0 +1,8 @@
+*.class
+*.swp
+.idea/
+.vscode/
+db/
+*.csv
+.DS_Store
+Thumbs.db
